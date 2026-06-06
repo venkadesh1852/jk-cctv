@@ -145,10 +145,15 @@ export default function Footer() {
             © {new Date().getFullYear()} SecureVision Pro. All rights reserved.
           </p>
           <p style={{ color: 'var(--text-muted)', fontSize: '0.82rem', margin: 0 }}>
-            Designed with precision for security excellence
+            Developed by nexifygen
           </p>
         </div>
       </div>
     </footer>
+
+
+
   )
+
+  
 }

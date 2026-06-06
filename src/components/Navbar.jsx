@@ -47,8 +47,8 @@ export default function Navbar() {
                 <FaShieldAlt style={{ color: 'var(--neon-blue)', fontSize: '1.1rem' }} />
               </div>
               <div>
-                <span className="navbar-brand-text">SecureVision</span>
-                <span className="navbar-brand-sub">Pro</span>
+                <span className="navbar-brand-text">JK Handwares</span>
+                <span className="navbar-brand-sub">And Networking</span>
               </div>
             </Link>
 
@@ -151,10 +151,10 @@ export default function Navbar() {
             ))}
 
             <div className="d-flex gap-3 mt-4">
-              <a href="tel:+919876543210" className="btn-call">
+              <a href="tel:+917305159812" className="btn-call">
                 <FaPhone /> Call
               </a>
-              <a href="https://wa.me/919876543210" target="_blank" rel="noopener noreferrer" className="btn-whatsapp">
+              <a href="https://wa.me/917305159812" target="_blank" rel="noopener noreferrer" className="btn-whatsapp">
                 <FaWhatsapp /> WhatsApp
               </a>
             </div>
