@@ -82,7 +82,7 @@ function ContactForm() {
             value={formData.mobile}
             onChange={handleChange}
             required
-            placeholder="+91 98765 43210"
+            placeholder="+91 7305159812"
             className="form-control form-control-dark"
           />
         </div>
@@ -166,8 +166,8 @@ export default function Contact() {
         <div className="container">
           <div className="row gy-4 justify-content-center">
             {[
-              { icon: <FaWhatsapp />, title: 'WhatsApp', info: '+91 98765 43210', sub: 'Instant response', color: '#25d366', href: 'https://wa.me/919876543210' },
-              { icon: <FaPhone />, title: 'Call Us', info: '+91 98765 43210', sub: 'Mon–Sun 9am–7pm', color: '#ff6b2b', href: 'tel:+919876543210' },
+              { icon: <FaWhatsapp />, title: 'WhatsApp', info: '+91 7305159812', sub: 'Instant response', color: '#25d366', href: 'https://wa.me/919876543210' },
+              { icon: <FaPhone />, title: 'Call Us', info: '+91 7305159812', sub: 'Mon–Sun 9am–7pm', color: '#ff6b2b', href: 'tel:+919876543210' },
               { icon: <FaMapMarkerAlt />, title: 'Visit Us', info: 'Security Tower, Tech Park', sub: 'Bangalore – 560001', color: 'var(--neon-blue)', href: 'https://maps.google.com' },
               { icon: <FaEnvelope />, title: 'Email', info: 'info@securevisionpro.com', sub: 'Response within 2hrs', color: '#a855f7', href: 'mailto:info@securevisionpro.com' },
             ].map((card, i) => (
