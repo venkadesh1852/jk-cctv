@@ -31,7 +31,7 @@ export default function LoadingScreen() {
         >
           <FaShieldAlt style={{ color: '#00d4ff', fontSize: '1.4rem', position: 'absolute' }} />
         </motion.div>
-        <div className="loading-logo">SecureVision Pro</div>
+        <div className="loading-logo">JK Handwares And Networking</div>
         <div style={{ fontFamily: 'var(--font-accent)', fontSize: '0.75rem', letterSpacing: '0.25em', color: 'var(--text-muted)', textTransform: 'uppercase', marginBottom: 24 }}>
           Next-Gen Security Intelligence
         </div>

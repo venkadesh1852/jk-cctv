@@ -77,7 +77,7 @@ export default function Navbar() {
                 Call Now
               </a>
               <a
-                href="https://wa.me/919876543210?text=Hi! I need a CCTV consultation."
+                href="https://wa.me/917305159812?text=Hi! I need a CCTV consultation."
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn-whatsapp d-none d-lg-inline-flex"
