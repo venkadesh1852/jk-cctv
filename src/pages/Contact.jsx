@@ -232,7 +232,7 @@ export default function Contact() {
                 <div style={{ borderRadius: 'var(--radius-xl)', overflow: 'hidden', border: '1px solid var(--border-neon)', marginBottom: 24 }}>
                   <iframe
                     title="SecureVision Pro Office"
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.9906849660624!2d77.59455!3d12.97194!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae167b0b5bdcc1%3A0x2ef0d02c7b2e7498!2sBangalore%2C%20Karnataka%2C%20India!5e0!3m2!1sen!2sin!4v1717500000000!5m2!1sen!2sin"
+                     src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d62944.85192852951!2d77.90415646584361!3d9.590678987358595!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b012d0056847731%3A0xc0144243ebfd2cdf!2sJK%20SECURITY%20HARDWARES%20AND%20NETWORKING!5e0!3m2!1sen!2sin!4v1780765265272!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"
                     width="100%"
                     height="280"
                     style={{ border: 0, display: 'block', filter: 'invert(90%) hue-rotate(180deg) saturate(0.8)' }}
