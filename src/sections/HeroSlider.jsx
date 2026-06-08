@@ -154,14 +154,14 @@ export default function HeroSlider() {
                               animate="visible"
                             >
                               <a
-                                href="https://wa.me/919876543210?text=Hi! I need a free site visit for CCTV installation."
+                                href="https://wa.me/917305159812?text=Hi! I need a free site visit for CCTV installation."
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="btn-whatsapp"
                               >
                                 <FaWhatsapp /> WhatsApp Now
                               </a>
-                              <a href="tel:+919876543210" className="btn-call">
+                              <a href="tel:+917305159812" className="btn-call">
                                 <FaPhone /> Call Now
                               </a>
                               <Link to="/contact" className="btn-neon d-inline-flex align-items-center gap-2">
@@ -178,9 +178,9 @@ export default function HeroSlider() {
                               animate="visible"
                             >
                               {[
-                                { num: '1000+', label: 'Installations' },
-                                { num: '500+', label: 'Happy Clients' },
-                                { num: '5★', label: 'Rating' },
+                                { num: '25+', label: 'Installations' },
+                                { num: '23+', label: 'Happy Clients' },
+                                { num: '4.9★', label: 'Rating' },
                               ].map((s, i) => (
                                 <div key={i} className="hero-stat">
                                   <div className="hero-stat-number" style={{ color: slide.accent }}>

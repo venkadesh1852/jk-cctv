@@ -2,12 +2,12 @@ import { useRef, useEffect, useState } from 'react'
 import { motion, useInView } from 'framer-motion'
 
 const STATS = [
-  { end: 1000, suffix: '+', label: 'CCTV Installations', icon: '📷', color: '#00d4ff' },
-  { end: 500, suffix: '+', label: 'Happy Clients', icon: '😊', color: '#00ff88' },
-  { end: 100, suffix: '+', label: 'Business Projects', icon: '🏢', color: '#ff6b2b' },
-  { end: 5, suffix: '★', label: 'Star Reviews', icon: '⭐', color: '#ffd700' },
+  { end: 25, suffix: '+', label: 'CCTV Installations', icon: '📷', color: '#00d4ff' },
+  { end: 23, suffix: '+', label: 'Happy Clients', icon: '😊', color: '#00ff88' },
+  { end: 20, suffix: '+', label: 'Business Projects', icon: '🏢', color: '#ff6b2b' },
+  { end: 4.9, suffix: '★', label: 'Star Reviews', icon: '⭐', color: '#ffd700' },
   { end: 24, suffix: '/7', label: 'Expert Support', icon: '🛡️', color: '#a855f7' },
-  { end: 8, suffix: ' Yrs', label: 'Experience', icon: '🏆', color: '#0066ff' },
+  { end: 1, suffix: ' +Yrs', label: 'Experience', icon: '🏆', color: '#0066ff' },
 ]
 
 function CountUp({ end, suffix, inView }) {
@@ -119,10 +119,10 @@ export default function TrustStats() {
             Get a free site survey and customised quote — no obligation
           </p>
           <div className="d-flex flex-wrap gap-3 justify-content-center">
-            <a href="https://wa.me/919876543210?text=Hi! I want to book a free site visit." target="_blank" rel="noopener noreferrer" className="btn-whatsapp">
+            <a href="https://wa.me/917305159812?text=Hi! I want to book a free site visit." target="_blank" rel="noopener noreferrer" className="btn-whatsapp">
               📱 WhatsApp Now
             </a>
-            <a href="tel:+919876543210" className="btn-call">
+            <a href="tel:+917305159812" className="btn-call">
               📞 Call Now
             </a>
           </div>

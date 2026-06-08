@@ -201,7 +201,7 @@ export default function ComparisonTool() {
                 </div>
 
                 <a
-                  href="https://wa.me/919876543210?text=Hi! I need a CCTV consultation for my property."
+                  href="https://wa.me/917305159812?text=Hi! I need a CCTV consultation for my property."
                   target="_blank"
                   rel="noopener noreferrer"
                   className="btn-whatsapp w-100 justify-content-center"
