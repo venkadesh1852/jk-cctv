@@ -168,7 +168,7 @@ export default function Contact() {
             {[
               { icon: <FaWhatsapp />, title: 'WhatsApp', info: '+91 7305159812', sub: 'Instant response', color: '#25d366', href: 'https://wa.me/919876543210' },
               { icon: <FaPhone />, title: 'Call Us', info: '+91 7305159812', sub: 'Mon–Sun 9am–7pm', color: '#ff6b2b', href: 'tel:+919876543210' },
-              { icon: <FaMapMarkerAlt />, title: 'Visit Us', info: 'Security Tower, Tech Park', sub: 'Bangalore – 560001', color: 'var(--neon-blue)', href: 'https://maps.google.com' },
+              { icon: <FaMapMarkerAlt />, title: 'Visit Us', info: 'Security Tower, Tech Park', sub: 'Bangalore – 560001', color: 'var(--neon-blue)', href: '' },
               { icon: <FaEnvelope />, title: 'Email', info: 'info@securevisionpro.com', sub: 'Response within 2hrs', color: '#a855f7', href: 'mailto:info@securevisionpro.com' },
             ].map((card, i) => (
               <div key={i} className="col-lg-3 col-md-6">
