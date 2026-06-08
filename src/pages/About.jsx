@@ -29,10 +29,10 @@ export default function About() {
             <div className="col-lg-6">
               <div className="section-subtitle mb-2">Who We Are</div>
               <h1 className="section-title mb-4">
-                Bangalore's Most <span className="gradient-text">Trusted Security</span> Company
+               Virudhunager Most <span className="gradient-text">Trusted Security</span> Company
               </h1>
               <p className="section-description mb-4">
-                SecureVision Pro has been protecting homes, offices, and businesses across Bangalore since 2016. With over 1000 successful installations, we combine cutting-edge technology with professional service.
+               Since 2025,<span className="gradient-text"> JK  HARDWARES AND NETWORKING</span> has been providing trusted CCTV surveillance and networking solutions across Virudhunagar and surrounding areas. We specialize in CCTV camera installation, security monitoring systems, WiFi networking, structured cabling, and complete security solutions for homes, offices, shops, schools, warehouses, and industrial facilities
               </p>
               <div className="d-flex flex-wrap gap-3">
                 <Link to="/contact" className="btn-primary-solid">Get Free Consultation</Link>
@@ -42,10 +42,10 @@ export default function About() {
             <div className="col-lg-6">
               <div className="row gy-3">
                 {[
-                  { icon: <FaShieldAlt />, title: 'Founded in 2016', desc: '8+ years serving Bangalore' },
-                  { icon: <FaUsers />, title: '500+ Clients', desc: 'Homes, offices & factories' },
+                  { icon: <FaShieldAlt />, title: 'Founded in 2025', desc: '1 years serving Virudhunager' },
+                  { icon: <FaUsers />, title: '25+ Clients', desc: 'Homes, offices & factories' },
                   { icon: <FaAward />, title: 'Certified Team', desc: 'Hikvision & Dahua certified' },
-                  { icon: <FaStar />, title: '4.9/5 Rating', desc: '500+ Google reviews' },
+                  { icon: <FaStar />, title: '4.9/5 Rating', desc: '16+ Google reviews' },
                 ].map((card, i) => (
                   <div key={i} className="col-6">
                     <motion.div
@@ -129,9 +129,9 @@ export default function About() {
               <div className="row gy-4 justify-content-center">
                 {[
                   { name: 'Arun Sharma', role: 'Founder & CEO', exp: '15 years in security', img: 'https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=300' },
-                  { name: 'Vikram Singh', role: 'Lead CCTV Technician', exp: 'Hikvision Certified', img: 'https://images.pexels.com/photos/1516680/pexels-photo-1516680.jpeg?auto=compress&cs=tinysrgb&w=300' },
-                  { name: 'Priya Nair', role: 'Network Engineer', exp: 'CCNA Certified', img: 'https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg?auto=compress&cs=tinysrgb&w=300' },
-                  { name: 'Suresh Kumar', role: 'Support Manager', exp: '10 years in IT support', img: 'https://images.pexels.com/photos/3778876/pexels-photo-3778876.jpeg?auto=compress&cs=tinysrgb&w=300' },
+                  // { name: 'Vikram Singh', role: 'Lead CCTV Technician', exp: 'Hikvision Certified', img: 'https://images.pexels.com/photos/1516680/pexels-photo-1516680.jpeg?auto=compress&cs=tinysrgb&w=300' },
+                  // { name: 'Priya Nair', role: 'Network Engineer', exp: 'CCNA Certified', img: 'https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg?auto=compress&cs=tinysrgb&w=300' },
+                  // { name: 'Suresh Kumar', role: 'Support Manager', exp: '10 years in IT support', img: 'https://images.pexels.com/photos/3778876/pexels-photo-3778876.jpeg?auto=compress&cs=tinysrgb&w=300' },
                 ].map((member, i) => (
                   <div key={i} className="col-lg-3 col-md-6">
                     <motion.div
@@ -173,10 +173,10 @@ export default function About() {
           <h2 className="section-title mb-3">Ready to Work With Us?</h2>
           <p style={{ color: 'var(--text-secondary)', marginBottom: 28 }}>Book a free site visit and get a custom quote today</p>
           <div className="d-flex flex-wrap gap-3 justify-content-center">
-            <a href="https://wa.me/919876543210" target="_blank" rel="noopener noreferrer" className="btn-whatsapp">
+            <a href="https://wa.me/917305159812" target="_blank" rel="noopener noreferrer" className="btn-whatsapp">
               📱 WhatsApp Now
             </a>
-            <a href="tel:+919876543210" className="btn-call">📞 Call Now</a>
+            <a href="tel:+917305159812" className="btn-call">📞 Call Now</a>
           </div>
         </div>
       </section>

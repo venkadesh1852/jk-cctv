@@ -38,14 +38,14 @@ export default function Footer() {
                 <FaShieldAlt style={{ color: 'var(--neon-blue)', fontSize: '1.2rem' }} />
               </div>
               <div>
-                <div className="footer-logo-text">SecureVision Pro</div>
+                <div className="footer-logo-text">JK HARDWARES AND NETWORKING</div>
                 <div style={{ fontFamily: 'var(--font-accent)', fontSize: '0.65rem', letterSpacing: '0.2em', textTransform: 'uppercase', color: 'var(--text-muted)' }}>
                   Next-Gen Security Intelligence
                 </div>
               </div>
             </div>
             <p style={{ color: 'var(--text-secondary)', fontSize: '0.9rem', lineHeight: 1.7, marginBottom: 20 }}>
-              India's most trusted CCTV & Networking company. Professional installation, genuine products, and 24/7 support for homes and businesses.
+              Virudhunager most trusted CCTV & Networking company. Professional installation, genuine products, and 24/7 support for homes and businesses.
             </p>
             <div className="d-flex gap-3">
               {[
@@ -108,9 +108,9 @@ export default function Footer() {
                 <div className="d-flex align-items-center justify-content-center" style={{ width: 34, height: 34, background: 'rgba(0,212,255,0.08)', border: '1px solid var(--border-neon)', borderRadius: 8, color: 'var(--neon-blue)', fontSize: '0.85rem', flexShrink: 0 }}>
                   <FaPhone />
                 </div>
-                +91 98765 43210
+                +91 7305159812
               </a>
-              <a href="https://wa.me/919876543210" target="_blank" rel="noopener noreferrer" className="d-flex align-items-center gap-2 text-decoration-none" style={{ color: 'var(--text-secondary)', fontSize: '0.9rem', transition: 'color 0.2s' }}
+              <a href="https://wa.me/917305159812" target="_blank" rel="noopener noreferrer" className="d-flex align-items-center gap-2 text-decoration-none" style={{ color: 'var(--text-secondary)', fontSize: '0.9rem', transition: 'color 0.2s' }}
                 onMouseEnter={e => e.currentTarget.style.color = '#25d366'}
                 onMouseLeave={e => e.currentTarget.style.color = 'var(--text-secondary)'}
               >
@@ -123,7 +123,7 @@ export default function Footer() {
                 <div className="d-flex align-items-center justify-content-center" style={{ width: 34, height: 34, background: 'rgba(0,212,255,0.08)', border: '1px solid var(--border-neon)', borderRadius: 8, color: 'var(--neon-blue)', fontSize: '0.85rem', flexShrink: 0, marginTop: 1 }}>
                   <FaMapMarkerAlt />
                 </div>
-                Security Tower, Tech Park,<br />Bangalore – 560001
+               Meenambikai Bangala, Near Madurai Busstop <br />Virudhunagar, Tamil Nadu 626001
               </div>
               <a href="mailto:info@securevisionpro.com" className="d-flex align-items-center gap-2 text-decoration-none" style={{ color: 'var(--text-secondary)', fontSize: '0.9rem', transition: 'color 0.2s' }}
                 onMouseEnter={e => e.currentTarget.style.color = 'var(--neon-blue)'}

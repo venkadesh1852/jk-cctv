@@ -20,9 +20,9 @@ const WHY_POINTS = [
 ]
 
 const STATS = [
-  { num: '1000+', label: 'CCTV Installations' },
-  { num: '500+', label: 'Happy Customers' },
-  { num: '100+', label: 'Business Clients' },
+  { num: '25+', label: 'CCTV Installations' },
+  { num: '23+', label: 'Happy Customers' },
+  { num: '20+', label: 'Business Clients' },
   { num: '4.9★', label: 'Google Rating' },
 ]
 
@@ -54,13 +54,13 @@ export default function WhyChooseUs() {
                 The Reasons Customers <span className="gradient-text">Choose Us</span>
               </h1>
               <p className="section-description mb-4">
-                With 8+ years of experience and 1000+ successful installations, we've built a reputation for professionalism, quality, and honest service.
+                With 1+ years of experience and 25+ successful installations, we've built a reputation for professionalism, quality, and honest service.
               </p>
               <div className="d-flex flex-wrap gap-3">
-                <a href="https://wa.me/919876543210" target="_blank" rel="noopener noreferrer" className="btn-whatsapp">
+                <a href="https://wa.me/917305159812" target="_blank" rel="noopener noreferrer" className="btn-whatsapp">
                   <FaWhatsapp /> WhatsApp Now
                 </a>
-                <a href="tel:+919876543210" className="btn-call">
+                <a href="tel:+917305159812" className="btn-call">
                   <FaPhone /> Call Now
                 </a>
               </div>
@@ -257,10 +257,10 @@ export default function WhyChooseUs() {
           <h2 className="section-title mb-3">Convinced? Let's Get Started</h2>
           <p style={{ color: 'var(--text-secondary)', marginBottom: 28 }}>Free site survey — no obligation, no sales pressure</p>
           <div className="d-flex flex-wrap gap-3 justify-content-center">
-            <a href="https://wa.me/919876543210?text=Hi! I want to book a free site visit." target="_blank" rel="noopener noreferrer" className="btn-whatsapp">
+            <a href="https://wa.me/917305159812?text=Hi! I want to book a free site visit." target="_blank" rel="noopener noreferrer" className="btn-whatsapp">
               📱 Book Free Site Visit
             </a>
-            <a href="tel:+919876543210" className="btn-call">📞 Call Now</a>
+            <a href="tel:+917305159812" className="btn-call">📞 Call Now</a>
           </div>
         </div>
       </section>

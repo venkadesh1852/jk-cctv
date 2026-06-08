@@ -95,10 +95,10 @@ const ALL_PROJECTS = [
 ]
 
 const STATS = [
-  { num: '1000+', label: 'Completed Installations' },
-  { num: '500+', label: 'Satisfied Clients' },
-  { num: '100+', label: 'Commercial Projects' },
-  { num: '8 Yrs', label: 'Industry Experience' },
+  { num: '25+', label: 'Completed Installations' },
+  { num: '23+', label: 'Satisfied Clients' },
+  { num: '20+', label: 'Commercial Projects' },
+  { num: '1 Yrs', label: 'Industry Experience' },
 ]
 
 export default function Projects() {
@@ -121,13 +121,13 @@ export default function Projects() {
             Projects We've <span className="gradient-text">Delivered</span>
           </h1>
           <p className="section-description mx-auto mb-4">
-            Explore our portfolio of successful CCTV and networking installations across Bangalore. Every project showcases our commitment to quality.
+            Explore our portfolio of successful CCTV and networking installations across Virudhunager. Every project showcases our commitment to quality.
           </p>
           <div className="d-flex flex-wrap gap-3 justify-content-center">
-            <a href="https://wa.me/919876543210" target="_blank" rel="noopener noreferrer" className="btn-whatsapp">
+            <a href="https://wa.me/917305159812" target="_blank" rel="noopener noreferrer" className="btn-whatsapp">
               <FaWhatsapp /> Discuss Your Project
             </a>
-            <a href="tel:+919876543210" className="btn-call">
+            <a href="tel:+917305159812" className="btn-call">
               <FaPhone /> Call Now
             </a>
           </div>
@@ -246,12 +246,12 @@ export default function Projects() {
       <section className="section-sm" style={{ background: 'var(--bg-secondary)' }}>
         <div className="container text-center">
           <h2 className="section-title mb-3">Your Project Could Be Next</h2>
-          <p style={{ color: 'var(--text-secondary)', marginBottom: 28 }}>Join 500+ satisfied customers. Book a free site visit today.</p>
+          <p style={{ color: 'var(--text-secondary)', marginBottom: 28 }}>Join 23+ satisfied customers. Book a free site visit today.</p>
           <div className="d-flex flex-wrap gap-3 justify-content-center">
-            <a href="https://wa.me/919876543210?text=Hi! I want to discuss a CCTV project." target="_blank" rel="noopener noreferrer" className="btn-whatsapp">
+            <a href="https://wa.me/917305159812?text=Hi! I want to discuss a CCTV project." target="_blank" rel="noopener noreferrer" className="btn-whatsapp">
               📱 Discuss Your Project
             </a>
-            <a href="tel:+919876543210" className="btn-call">📞 Call Now</a>
+            <a href="tel:+917305159812" className="btn-call">📞 Call Now</a>
           </div>
         </div>
       </section>
